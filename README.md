@@ -1,4 +1,7 @@
 # API Documentation
+```
+https://yallahbaggagebe.onrender.com/api-docs/#/
+```
 
 This directory contains the backend API server for the Transfer Service Management Platform.
 
@@ -43,7 +46,8 @@ npm run dev
 
 ## API Documentation
 
-Access the Swagger documentation at `http://localhost:9091/api-docs` when the server is running.
+Access the Swagger documentation at `http://localhost:9091/api-docs` for local environment when the server is running.
+and for production at *https://yallahbaggagebe.onrender.com/api-docs/#/*
 
 ## Testing
 
