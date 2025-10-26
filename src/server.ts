@@ -119,9 +119,9 @@ const checkAndCreateAdmin = async () => {
     if (!adminExists) {
       await User.create({
         name: 'admin user',
-        email: 'admin@gmail.com',
+        email: 'yallahbaggageapp@gmail.com',
         phone: '+5395272334',
-        password: '123456',
+        password: 'YAba2025@',
         identityNumber: '1234567890',
         role: 'admin',
         isAvailable: true
